@@ -1,2 +1,2 @@
 # githubimages
-images cert
+Fortinet certificate image
